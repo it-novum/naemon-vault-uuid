@@ -1,0 +1,1 @@
+# naemon-vault-uuid
